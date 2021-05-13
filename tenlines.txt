@@ -9,8 +9,5 @@ Hi,6.
 ok 
 done.
 here's my extra line
-<<<<<<< HEAD
 new line 12.
-=======
-new line 12.
->>>>>>> 431ec71af4cb0330387f3d37d7a3ca0e0678e751
+another line
